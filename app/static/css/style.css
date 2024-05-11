@@ -1,0 +1,24 @@
+.product-container {
+    background-color: #fff;
+    background-image: linear-gradient(rgba(255, 247, 239, 1), #fff);
+    background-image: -webkit-linear-gradient(rgba(255, 247, 239, 1), #fff);
+    background-image: -moz-linear-gradient(rgba(255, 247, 239, 1), #fff);
+    background-image: -ms-linear-gradient(rgba(255, 247, 239, 1), #fff);
+    background-image: -o-linear-gradient(rgba(255, 247, 239, 1), #fff);
+    padding: 50px 40px;
+    border: 1px solid #efe8e1;
+    padding-bottom: 20px;
+}
+
+.goodnessseccont img {
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+    max-width: 100%; /* Ensure the image doesn't exceed its container's width */
+}
+
+.mlkpro {
+    margin-top: 10px;
+    text-align: center; /* Center the text */
+}
+
+
